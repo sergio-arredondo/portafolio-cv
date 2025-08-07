@@ -123,3 +123,18 @@ header section img {
     width: 100px;
   }
 }
+
+.container {
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-bottom: 5%;
+}
+
+.container p {
+  text-align: justify;
+}
+
+.container h3 {
+  padding-top: 4%;
+  padding-bottom: 4%;
+}
